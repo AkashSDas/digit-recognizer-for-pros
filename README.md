@@ -10,6 +10,15 @@ Here `no pre-trained CNN or predefined architecture` is used, this is a `custom`
 - Building `custom` CNN architecture
 - Visualizing CNN (`filters` and `feature maps`)
 
+## Table of contents
+
+- [Getting started](#getting-started)
+- [Kaggle Competition Results](#kaggle-competition-results)
+- [Models performance and visualizations](#models-performance-and-visualizations)
+  - [Visualizing Filters](#visualizing-filters)
+  - [Visualizing Feature Maps](#visualizing-feature-maps)
+- [License](#license)
+
 ## Getting started
 
 The [notebook](https://www.kaggle.com/akashsdas/digit-recognizer-for-pros) is available on Kaggle to work in the same environment where this notebook was created i.e. use the same version packages used, etc...
